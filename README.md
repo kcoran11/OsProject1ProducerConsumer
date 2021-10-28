@@ -18,7 +18,8 @@ Example Output:
 
 
 The first obstacle was setting up a programming environment. I used virtualbox to virtualize an ubuntu environment.\
-I used visual studio code to edit the code and compiled with gcc through the terminal.\
+I used visual studio code to edit the code and compiled with gcc through the terminal.
 
 In the actual program, the first difficulty was creating the shared memory and the semaphores.\
-Once they were created \
+Once they were created then I had to implement the logic of the producer/consumer problem\
+This was done by looping and essentially waiting when the other is in use or full/empty.
