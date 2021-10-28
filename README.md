@@ -1,4 +1,4 @@
-# OsProject1ProducerConsumer
+# OSProject1ProducerConsumer
 
 Kevin Coran Operating Systems Project 1
 
