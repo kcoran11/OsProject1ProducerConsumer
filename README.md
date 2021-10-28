@@ -12,7 +12,7 @@ $gcc consumer.c -pthread -lrt -o consumer
 $./producer & ./consumer &
 
 Example Output:
-![image](https://user-images.githubusercontent.com/73201894/139344825-a2c0ec9f-a8da-4368-a98d-32acccd47a47.png)
+![image](https://user-images.githubusercontent.com/73201894/139344993-ac342c65-4073-4070-94c4-299a956c0d86.png)
 
 
 
