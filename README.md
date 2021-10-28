@@ -9,9 +9,10 @@ If the table is empty or currently being acted on, then the consumer will not ac
 The code is compiled and run by the following commands:\
 $gcc producer.c -pthread -lrt -o producer\
 $gcc consumer.c -pthread -lrt -o consumer\
-$./producer & ./consumer &\
+$./producer & ./consumer &
 
 Example Output:
+
 ![image](https://user-images.githubusercontent.com/73201894/139344993-ac342c65-4073-4070-94c4-299a956c0d86.png)
 
 
