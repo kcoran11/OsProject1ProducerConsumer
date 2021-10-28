@@ -12,7 +12,8 @@ $gcc consumer.c -pthread -lrt -o consumer
 $./producer & ./consumer &
 
 Example Output:
-![image](https://user-images.githubusercontent.com/73201894/139344693-7aad30df-511b-4ffb-8928-80360df6bfcb.png)
+![image](https://user-images.githubusercontent.com/73201894/139344825-a2c0ec9f-a8da-4368-a98d-32acccd47a47.png)
+
 
 
 The first obstacle was setting up a programming environment. I used virtualbox to virtualize an ubuntu environment. 
